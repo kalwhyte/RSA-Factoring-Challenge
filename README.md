@@ -1,7 +1,8 @@
 RSA Factoring Challenge
-0.Factorize all the things!
 
-0. Factorize all the things!#advanced
+0. Factorize all the things!
+
+#advanced
 Factorize as many numbers as possible into a product of two smaller numbers.
 
 Usage:factors <file>
@@ -19,6 +20,7 @@ Your program should run without any dependency: You will not be able to install 
 Time limit: Your program will be killed after 5 seconds if it hasn't finish
 Push all your scripts, source code, etc... to your repository
 we will only run your executablefactors
+
 1. RSA Factoring Challenge#advanced
 RSA Laboratories states that: for each RSA numbern, there exist prime numberspandqsuch that
 
@@ -27,4 +29,4 @@ n=p×q. The problem is to find these two primes, given onlyn.
 This task is the same as task 0, except:
 
 pandqare always prime numbers
-There is only one number in the files
+There is only one number in the files.
